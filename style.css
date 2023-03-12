@@ -1,3 +1,33 @@
+body h1 {font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    
+    
+}
+
+.intro{
+    
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 25px;
+        color: #039;
+        background-color: #FCEBB6;
+        
+}
+
+
+
 body {
-    background-color: blanchedalmond;
+    background-color: bisque;
+}
+
+#pic {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#main{
+    font-size: x-large;
 }
